@@ -51,17 +51,17 @@ footer ul{
 }
 
 main{
-    text-align: center;
+    text-align: center;    
 }
 
-.container {
-    display: inline-block;
-    margin-top: 150px;
+.container {    
+    margin: 150px auto;
+    width: 600px;    
 }
 
 #searchForm input{
     display: block;
-    width: 600px;
+    width: 100%;
     margin: 20px auto;
     border-radius: 15px;
     box-sizing: border-box;
